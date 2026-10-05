@@ -1,5 +1,4 @@
 # AI_Assignment_2
-# AI Assignment 2
 
 ## Artificial Intelligence - Search Algorithms
 
